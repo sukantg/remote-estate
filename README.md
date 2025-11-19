@@ -1,5 +1,6 @@
 
-  # Remote Estate Web App UI
+  # Remote Estate - Built as a part of Supabase Hackathon using Figma Make
+  Live URL - https://take-array-73767750.figma.site
 
   This is a code bundle for Remote Estate Web App UI. The original project is available at https://www.figma.com/design/TLUUFkS0HbiD6r5urEHGWy/Remote-Estate-Web-App-UI.
 
