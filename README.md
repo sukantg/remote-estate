@@ -1,5 +1,8 @@
 
   # Remote Estate
+
+Sell your property remotely, securely
+Connect with global buyers and finalize contracts through verified intermediary lawyers. Save time, reduce stress, and eliminate hidden costs.
   
   # Built as a part of Supabase Hackathon using Figma Make
   
